@@ -1,0 +1,14 @@
+{
+  "name": "cv2025",
+  "version": "1.0.0",
+  "description": "mi cv portafolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "angel rivera",
+  "license": "ISC",
+  "dependencies": {
+    "eins-modal": "^2.2.2"
+  }
+}
